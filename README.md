@@ -346,3 +346,15 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+## Project Overview
+
+Webapp Form Builder Custom is a project for building and managing customizable web forms.
+
+## Project Documentation
+
+This repository contains the application source code and related project files.
+
+## Development
+
+Refer to the project's configuration files for installation and development instructions.
+
